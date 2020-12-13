@@ -4,6 +4,7 @@
 - Create a character device that allows process in userspace to open and read random number from linux kernel in kernelspace.
 
 **Quick guide:**
+
 Build:
 ```
 cd randevice
