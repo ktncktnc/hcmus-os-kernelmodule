@@ -10,6 +10,7 @@ cd randevice
 make
 ```
 *Note: Before running below command, please switch to root mode*
+
 Insert module:
 ```
 insmod randevice.ko
