@@ -1,1 +1,0 @@
-cmd_/home/ktnc/linux-kernel/randevice/randevice.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/ktnc/linux-kernel/randevice/randevice.ko /home/ktnc/linux-kernel/randevice/randevice.o /home/ktnc/linux-kernel/randevice/randevice.mod.o;  true
